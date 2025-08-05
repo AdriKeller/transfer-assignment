@@ -1,1 +1,3 @@
 # The Case of the Missing Socks and Git
+
+Barnaby Button, a man whose life was meticulously organized down to the last paperclip, faced his greatest challenge yet: the sock drawer. It wasn't just a missing sock; it was a systematic disappearance, a slow, agonizing bleed of his beloved argyle collection. Every morning, he'd find a lone survivor, a brave soldier without its mate, staring accusingly from the depths of the drawer. Barnaby suspected a poltergeist, or perhaps a highly sophisticated sock-napping ring operating out of his laundry room.
